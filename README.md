@@ -29,9 +29,13 @@ Versatility: Works effectively with images and videos under various conditions a
 User-Friendly Interface: (If using Streamlit) Provides an intuitive interface for uploading files and viewing results.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Zem-0/ANPR-System/blob/main/race_car%20(1).jpeg)
+![App Screenshot](https://github.com/Zem-0/ANPR-System/blob/main/1%20(1).jpg)
+
+https://github.com/user-attachments/assets/c33c0b41-d53d-4a88-912f-f5c267c73249
+
+
+
 
 
 ## Future Improvements
